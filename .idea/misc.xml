@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/drawable/backgroundeditview.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/drawable/btn_gradient.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/drawable/fbbackground.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/drawable/googlebackground.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/drawable/ic_clock.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/activity_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/activity_splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/activity_splash_screen.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Tarun/AndroidStudioProjects/My_First_Project/app/src/main/res/layout/item_layout.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
